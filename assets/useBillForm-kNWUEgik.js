@@ -1,0 +1,1 @@
+import{n as e}from"./index-CTvJRv-G.js";function m(){return{billForm:e({count:100,merchant:"羊城通",merchantFullName:"广州羊城通股份有限公司",paymentTime:"2024年7月16日 18:38:31",paymentType:"零钱",merchandise:"OPPO钱包充值",acquiringMerchant:"财付通支付科技有限公司"})}}export{m as u};
